@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](TwitterApp.gif)
+![](twitterApp.gif)
 
 # Twitter - Part I
 
